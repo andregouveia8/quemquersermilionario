@@ -1,0 +1,16 @@
+............................................
+Quem é o Presidente do F.C.Porto?;Luis Filipe Vieira;Pinto da Costa;Cavaco Silva;Julen Lopetegui;B
+Qual a Nacionalidade do piloto Fernado Alonso?;Argentina;Espanhola;Mexicana;Portuguesa;B
+Qual destes atletas não joga voleibol?;Valdir;Kurek;Ruben Neves;Wallace;C
+Qual destes não pertence ao WWE?;Big Show;Kane;Muller;John Cena;C
+Quem era conhecido como "O Pantera Negra"?;Eusébio da Silva Ferreira;;Eusébio Costa;Rui Costa;Vitor Baía;A
+Qual a nacionalidade de Fabricio Werdum, lutador de UFC;Portuguesa;Holandesa;Inglesa;Brasileira;D
+A Bandeira Vermelha nas corridas de Automobilismo indica:;Pista Livre;Óleo na Pista;Problema Técnico, deve voltar as Boxes;Corrida Parada;D
+Ayrton Senna era piloto de...;Rally;F1;Drift;Kartcross;B
+Quem é Peter Sagan?;Ciclista;Futebolista;Velocista;Maratonista;A
+Que Selecao venceu o Euro 2004?;Portugal;Luxemburgo;Brasil;Grecia;D
+Qual o gesto tecnico que permite colocar a bola em jogo no voleibol?;Manchete;Servico;Bloco;Amorti;B
+No futebol, Fora de Jogo significa que o jogador;Esta fora do campo;Esta depois da linha do ultimo defesa;Levou Cartao Vermelho;Esta Lesionado;B
+O Simbolo dos Jogos olimpicos e constituido por:;5 Aneis;4 Aneis;5 Quadrados;3 Triangulos;A
+Onde Surgiu a Ginastica?;Italia;Grecia;Alemanha;America;B
+Que jogador tem o recor de assistencias no NBA?;Jason Kidd;John Stockton;Steve Nash;Magic Johnson;B

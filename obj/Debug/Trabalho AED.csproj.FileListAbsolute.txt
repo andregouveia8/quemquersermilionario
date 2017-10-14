@@ -1,0 +1,39 @@
+c:\users\paulo\documents\visual studio 2015\Projects\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe.config
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.pdb
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.exe
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.pdb
+H:\ESEIG\C# - Resoluções\trabalho\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe.config
+H:\ESEIG\C# - Resoluções\trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.exe
+H:\ESEIG\C# - Resoluções\trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.pdb
+H:\ESEIG\C# - Resoluções\trabalho\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe
+H:\ESEIG\C# - Resoluções\trabalho\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.pdb
+H:\ESEIG\C# - Resoluções\trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Desktop\trabalho\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe.config
+C:\Users\Paulo\Desktop\trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.exe
+C:\Users\Paulo\Desktop\trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.pdb
+C:\Users\Paulo\Desktop\trabalho\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe
+C:\Users\Paulo\Desktop\trabalho\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.pdb
+C:\Users\Paulo\Desktop\trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.csprojResolveAssemblyReference.cache
+E:\ESEIG\C# - Resoluções\trabalho\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe.config
+E:\ESEIG\C# - Resoluções\trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.exe
+E:\ESEIG\C# - Resoluções\trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.pdb
+E:\ESEIG\C# - Resoluções\trabalho\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe
+E:\ESEIG\C# - Resoluções\trabalho\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.pdb
+E:\ESEIG\C# - Resoluções\trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.csprojResolveAssemblyReference.cache
+F:\ESEIG\C# - Resoluções\trabalho\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe.config
+F:\ESEIG\C# - Resoluções\trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.exe
+F:\ESEIG\C# - Resoluções\trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.pdb
+C:\Users\Paulo\Desktop\trabalho\trabalho\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe.config
+C:\Users\Paulo\Desktop\trabalho\trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.exe
+C:\Users\Paulo\Desktop\trabalho\trabalho\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.pdb
+C:\Users\Paulo\Desktop\trabalho\trabalho\Trabalho AED - Cópia\Trabalho AED\bin\Debug\Trabalho AED.exe.config
+C:\Users\Paulo\Desktop\trabalho\trabalho\Trabalho AED - Cópia\Trabalho AED\obj\Debug\Trabalho AED.exe
+C:\Users\Paulo\Desktop\trabalho\trabalho\Trabalho AED - Cópia\Trabalho AED\obj\Debug\Trabalho AED.pdb
+C:\Users\Paulo\Desktop\trabalho\trabalho\Trabalho AED - Cópia\Trabalho AED\bin\Debug\Trabalho AED.exe
+C:\Users\Paulo\Desktop\trabalho\trabalho\Trabalho AED - Cópia\Trabalho AED\bin\Debug\Trabalho AED.pdb
+C:\Users\Paulo\Desktop\trabalho\trabalho\Trabalho AED - Cópia\Trabalho AED\obj\Debug\Trabalho AED.csprojResolveAssemblyReference.cache
+C:\Users\andre_000\Desktop\Trabalho AED - Cópia\Trabalho AED\bin\Debug\Trabalho AED.exe.config
+C:\Users\andre_000\Desktop\Trabalho AED - Cópia\Trabalho AED\obj\Debug\Trabalho AED.exe
+C:\Users\andre_000\Desktop\Trabalho AED - Cópia\Trabalho AED\obj\Debug\Trabalho AED.pdb

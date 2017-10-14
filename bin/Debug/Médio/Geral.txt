@@ -1,0 +1,16 @@
+............................................................................
+Qual o nome do medico especialista em ouvidos, laringe e nariz?;Otorrinolaringologista;Cirurgiao;Fisiotrapeuta;Oftalmologista;A
+Que nome se da os pelos que existe nas Palpebras?;Celhas;Pestanas;Sobrancelhas;Cabelo;B
+Qual e a Capital do Panama?;Panama;Bocas del Toro;Bogota;Colombo;A
+Os ficheiros com extensao"exe"sao utilizados no...;Windows;Linux;IOS;Android;A
+Em que ano o Furacao Katrina atinguiu os Estados Unidos?;2001;1992;2005;2012;C
+O que Significa RGB?;Real Gain Boost;Red Grey Brow;Red Green Blue; Rated Gama Base;C
+Quantas semanas dura normamente a gestacao nas mulheres?;38;30;40;46;C
+Antes de vencer o Open da Malásia de 2013, João Sousa derrotou que tenista nos quartos de final?;David Ferrer;Roger Federer;Andy Roddick;Novak Djokovic;A
+A quem pertence a musica "Rock this Party"?;David Guetta;BobSinclar;Tiesto;Martin Garrix;B
+A que banda pertenceu o cantor Justin Timberlake?;Excesso;Backstreet Boys;Linkin Park;N Sync;D
+Qual das seguintes musicas pertence a cantora Britney Spears?;Bad Romance;Stornger;Ops!... I did it again;Womanizer;A
+Qual das cancoes pertence a Lana del Rey?;Fuel;Take a Look Around;Born to Die;Thats Not My Name;C
+Eric Camilli e o mais recente piloto de rally da:;Mini;Hyundai;Ford;Volkswagen;C
+Em 1991, o campeao do mundo de WRC foi:;Didier Auriol;Ary Vatanen;Juha Kankkunen;Carlos Sainz;C
+Quem e James Hetfield?;Vocalista dos Mettalica;Baterista dos Mettalica;Guitarrista dos Mettalica;Baixista dos Mettalica;A
